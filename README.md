@@ -10,3 +10,9 @@ Predict the enemy team's next move with the Valorant Side Predictor, a powerful 
 - Intuitive and easy-to-use interface for quick data entry and result interpretation.
 
 ## *Uses Valorant Riot API
+
+
+https://valapidocs.techchrism.me/endpoint/match-details
+
+https://developer.riotgames.com/apis#val-content-v1
+
